@@ -4,7 +4,7 @@
 This is a Java-based Employee Payroll Management System that helps manage employee records, attendance, salary calculation, and payslip generation. 
 The system is designed to automate payroll processes, reduce manual errors, and improve efficiency in employee salary management.
 
-**FEATURES
+**FEATURES**
 
  1.Employee Management – Add, update, delete, and view employee details
  2.Attendance Tracking – Record employee attendance and working days
