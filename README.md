@@ -11,7 +11,7 @@ The system is designed to automate payroll processes, reduce manual errors, and 
  3.Payroll Processing – Calculate salaries based on basic pay, allowances, and deductions
  4.Payslip Generation – Generate detailed payslips for employees
  5.Authentication (optional) – Admin login for secure access
- 6.Database Integration (MySQL / SQLite / File Handling) – Store employee and payroll records
+ 6.Database Integration (MySQL) – Store employee and payroll records
 
  **TECHNICAL STACK**
 
