@@ -15,7 +15,7 @@ The system is designed to automate payroll processes, reduce manual errors, and 
 
  **TECHNICAL STACK**
 
- 1.Programming Language: Java (Core Java, OOP concepts)
+ 1.Programming Language: Java
  2.Frontend/UI: HTML / CSS / JavaScript
  3.Backend: Java (Classes & Modules)
  4.Database: MySQL 
