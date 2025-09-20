@@ -13,6 +13,14 @@ The system is designed to automate payroll processes, reduce manual errors, and 
  5.Authentication (optional) – Admin login for secure access
  6.Database Integration (MySQL) – Store employee and payroll records
 
+ **JAVA CONCEPTS USED**
+
+ 1.Encapsulation → Employee fields are private, accessed via getters/setters.
+ 2.Classes & Objects → Employee objects represent each worker.
+ 3.Collections → Used HashMap to store employees dynamically.
+ 4.Control Structures → do-while loop for the menu, switch-case for options.
+ 5.Scanner Class → For taking console input.
+
  **TECHNICAL STACK**
 
  1.Programming Language: Java
