@@ -24,7 +24,7 @@ The system is designed to automate payroll processes, reduce manual errors, and 
 
 1.Admin 
 2.Employee
-3.System (Automated Role)
+3.System 
 
 
 
